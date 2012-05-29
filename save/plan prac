@@ -1,0 +1,34 @@
+-------------------- na 27 paŸdziernika
+
+1sprawny modu³ fabryki i interfejs
+1wrogie roboty i jakaœ forma walki z nimi
+1przeorganizowaæ struktury
+1funkcja inicjuj¹ca wszystkie zmienne strukturalne do fabryki
+
+
+-------------------- na 3 listopada (po d³ugim weekendzie)
+
+dostosowaæ modu³ fabryki do wszystkich ulepszeñ
+zrównowa¿yæ koszty ulepszeñ (+ zaplanowaæ wydobywanie surowców)
+przygotowaæ modu³ z³ó¿ surowców na dowolnej planszy
+1wprowadziæ przynajmniej jeden budynek wydobywczy
+
+wprowadziæ nowe typy wrogich robotów (wczeœniej przystosowuj¹c i
+uniwersalizuj¹c funkcje enemysmove i enemysshoot)
+
+dopracowaæ i zbilansowaæ uzbrojenie
+
+uruchomiæ funkcjonalnoœc generatora w hangarze i konsekwencji braku energii
+
+--------------------(w zale¿noœci od czasu na 10 lub 3)
+
+naprawiæ(lub napisaæ od nowa) modu³ zapisu i wczytywania gry
+-zaimplementowaæ to w przyjazny u¿ytkownikowi sposób
+
+stworzyæ pierwsze przyk³adowe questy
+
+zacz¹æ kierowaæ grê ku celowi (przygotowanie na kolonizacjê)
+
+zacz¹æ przystosowywaæ grê do dzia³ania pod systemem Windows
+
+cdn...

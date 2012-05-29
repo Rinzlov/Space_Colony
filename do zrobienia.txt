@@ -1,0 +1,20 @@
+³adowanie kolektorami tylko na pustyni
+zabezpieczenie przed uciekaj¹cymi literkami w menu
+
+
+jakaœ plansz na której bêdzie szybkozmienne pole magnetyczne wywo³uj¹ce potê¿ne pr¹dy wirowe
+w robocie który bêdzie ulega³ zniszczeniu.
+Bêdzie dostêpne ulepszenie pozwalaj¹ce wytrzymaæ to pole.
+Bêdzie np mo¿na przytrzymaæ jakiœ klawisz diagnostyczny ¿eby wyœwietliæ na ca³ej planszy
+obraz cyfrowy gradientu nasilenia pola magnetycznego.
+
+
+kwarc pospolicie wystêpuj¹cy.
+mo¿naby rozbiæ na krzem i tlen.
+
+uaktualniæ pomoc
+zrobiæ menu
+
+w e-informacjach o robocie i hangarze mo¿e by zrobiæ ¿eby informacje o hangarze by³y widoczne tylko je¿eli zbuduje siê jakiœ sposób ³¹cznoœci
+
+zrobiæ mo¿liwoœæ wyrzucania z ³adowni jakiœ rzeczy aby zwolniæ miejsce na inne
